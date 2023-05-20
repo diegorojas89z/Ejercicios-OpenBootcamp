@@ -2,7 +2,7 @@ package EjerciciosTema4;
 
 public class EjercicioDoWhile {
 
-    public static void main(String[]args){
+    public static void main(String[] args) {
         int numeroWhile = 0;
         do {
             numeroWhile = numeroWhile + 1;

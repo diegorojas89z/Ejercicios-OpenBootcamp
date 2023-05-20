@@ -6,8 +6,9 @@ public class EjercicioIf {
         int numeroIf = -7;
         if (numeroIf == 0) {
             System.out.println("Este numero es 0");
-        } else if (numeroIf >= 0){
+        } else if (numeroIf >= 0) {
             System.out.println("Este numero es positivo");
+
         } else {
             System.out.println("Este numero es negativo");
         }

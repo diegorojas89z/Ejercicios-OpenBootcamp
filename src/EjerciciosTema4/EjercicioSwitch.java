@@ -2,10 +2,10 @@ package EjerciciosTema4;
 
 public class EjercicioSwitch {
 
-    public static void main(String[]args){
+    public static void main(String[] args) {
         String estacion = "Otoño";
 
-        switch (estacion){
+        switch (estacion) {
             case "Invierno":
                 System.out.println("La estacion es invierno");
                 break;
